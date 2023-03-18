@@ -19,6 +19,8 @@
 - ⚡ Fun fact: I work in an i3 core  
   
 
+- 📧 How to reach me: **apati9909@gmail.com**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutosh_pati07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshpati97) 
