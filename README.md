@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Designing a Fault-Tolerant Web Application: Building a Highly Available 3-Tier Architecture] 💻  
   
 
-- 🌱 I’m currently learning NGINX, MySQL, Ansible and Kubernetes  
+- 🌱 I’m currently learning Apache, NGINX, MySQL and Kubernetes  
   
 
 - ❓ Ask me about anything related to AWS Cloud Services and related technologies  
