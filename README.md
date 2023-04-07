@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to AWS Cloud Services and related technologies  
   
 
-- ⚡ Fun fact: I work in an i3 core  
+- ⚡ Fun fact: I work with an i3 core  
   
 
 - 📧 How to reach me: **apati9909@gmail.com**
