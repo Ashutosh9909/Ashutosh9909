@@ -7,10 +7,10 @@
 ### <div align="center">I'm Ashutosh, an AWS/DevOps Fresher 👨‍💻 looking for job opportunities 👨‍💼</div>  
   
 
-- 🔭 I’m currently working on [Kubernetes Microservice Flask Application] 💻  
+- 🔭 I’m currently working on [Multi-environment-infrastructure-deployment-on-terraform] 💻  
   
 
-- 🌱 I’m currently learning Apache, NGINX, MySQL and Kubernetes  
+- 🌱 I’m currently learning Apache, NGINX & Kubernetes  
   
 
 - ❓ Ask me about anything related to AWS Cloud Services and related technologies  
